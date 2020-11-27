@@ -101,6 +101,7 @@ Based on the image above there are just three clickable items.
                  -> Mary Jane   -> MRI Scan Folder
                                 -> Volume Files
     If you checked off the **Patient Set CheckBox** the program would expect that you selected the folder Patient Set, not John Doe nor Mary Jane.
+3. **Convert Button:** This runs the script. All output label maps will be output in the appropriate patient folder and will be labeled according to its volume name with '-label' appended at the end. 
     
     
                                 
