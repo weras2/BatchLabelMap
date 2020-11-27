@@ -126,7 +126,8 @@ Project Link: [https://github.com/weras2/BatchLabelMap](https://github.com/weras
 
 
 
-[getting-started-example] : Graphics/res1.jpg
+<!-- MARKDOWN LINKS & IMAGES -->
+[getting-started-example]: Graphics/res1.jpg
 
 
 
