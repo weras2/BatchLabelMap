@@ -49,7 +49,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -65,7 +64,7 @@ Conversions from volume to label map can be tedious and time consuming. This mod
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Below is a detailed example on how to get the module running on Slicer3D. Note: This module has only been tested the Slicer3D version 4.11.20200930 revision 29402 built 2020-10-02, so errors may be present if using a suffiently old Slicer3D version. 
+Below is a detailed example on how to get the module running on Slicer3D. Note: This module has only been tested on the Slicer3D version 4.11.20200930 revision 29402 built 2020-10-02, so errors may be present if using a suffiently old Slicer3D version. 
 
 ### Installation
 
@@ -73,7 +72,7 @@ Make sure to be connected to the internet so that one of the dependencies can be
 
 1. Download the file BatchLabelMap or clone repo 
 2. Launch Slicer3D **as administrator.** Note: This is only for the first time.
-3. In Slicer, open the **Extension Wizard** module. This can be done by clicking on the magnifying glass and searching for the module by typing the name out. 
+3. In Slicer3D, open the **Extension Wizard** module. This can be done by clicking on the magnifying glass and searching for the module by typing the name out. 
 4. In the Extension Wizard module, click on **Select Extension.** A new window should open.
 5. Navigate to where you downloaded the folder **BatchLabelMap.**
 6. Finally, click on it **once** and then click on the button **Select Folder.**
