@@ -91,13 +91,13 @@ The program expects that patient folders are filled with two things, volumme fil
 Based on the image above there are just three clickable items. 
 
 1. **Patient Set CheckBox:** Let's the program know that the directory that will be selected is a collection of patients rather than just one patient. By default is not checked, meaning that the program expects a patient directory, not a set.
-2. **Select Folder Button:** Opens a Folder Dialog Window. The program expects that the directory given is parent to all patient files. Example for the default case. Here one would select the folder John Doe. 
+2. **Select Folder Button:** Opens a Folder Dialog Window. The program expects that the directory given is parent to all patient files. Example for the default case. 
     ```
     John Doe -> MRI Scan Folder 
              -> Volume Files
     ```
              
-     In the case that patient set is selected:
+     Here one would select the folder John Doe. In the case that patient set is selected:
      
      ```
      Patient Set -> John Doe    -> MRI Scan Folder 
@@ -107,7 +107,7 @@ Based on the image above there are just three clickable items.
                                 -> Volume Files
     ```
                                 
-    Again, if **Patient Set CheckBox** is not checked, the program would expect that you selected the folder Patient Set, not John Doe nor Mary Jane.
+    Here one would select the folder Patient Set.
     
 3. **Convert Button:** This runs the script. All output label maps will be output in the appropriate patient folder and will be labeled according to its volume name with '-label' appended at the end. 
     
