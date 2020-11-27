@@ -20,7 +20,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="3D-Slicer-Mark.png" alt="Slicer3D Logo" width="80" height="80">
+    <img src="Resources\3D-Slicer-Mark.png" alt="Slicer3D Logo" width="80" height="80">
 
   <h3 align="center">Batch Label Map</h3>
 
