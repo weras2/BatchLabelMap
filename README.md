@@ -83,7 +83,8 @@ Make sure to be connected to the internet so that one of the dependencies can be
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-    <img src="Graphics/3D-Slicer-Mark.png" alt="Slicer3D Logo" width="80" height="80">
+
+[![Product View][getting-started-example]]
 
 
 
@@ -123,6 +124,9 @@ Juan Perez - minego410@gmail.com
 Project Link: [https://github.com/weras2/BatchLabelMap](https://github.com/weras2/BatchLabelMap)
 
 
+
+
+[getting-started-example] : Graphics/res.1jpg
 
 
 
