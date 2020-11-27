@@ -70,7 +70,7 @@ Below is a detailed example on how to get the module running on Slicer3D. Note: 
 
 Make sure to be connected to the internet so that one of the dependencies can be downloaded.
 
-1. Download the file BatchLabelMap or clone repo 
+1. Download the folder BatchLabelMap or clone repo 
 2. Launch Slicer3D **as administrator.** Note: This is only for the first time.
 3. In Slicer3D, open the **Extension Wizard** module. This can be done by clicking on the magnifying glass and searching for the module by typing the name out. 
 4. In the Extension Wizard module, click on **Select Extension.** A new window should open.
