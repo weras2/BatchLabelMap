@@ -77,7 +77,7 @@ Make sure to be connected to the internet so that one of the dependencies can be
 5. Navigate to where you downloaded the folder **BatchLabelMap.**
 6. Finally, click on it **once** and then click on the button **Select Folder.**
 
-
+If there weren't any problems, the module can be found at **Custom Modules >> Batch Label Map** or you can just use the search method as suggested in step 3
 
 
 <!-- USAGE EXAMPLES -->
