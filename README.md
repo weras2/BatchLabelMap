@@ -83,7 +83,7 @@ Make sure to be connected to the internet so that one of the dependencies can be
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To be added later
+    <img src="Graphics/3D-Slicer-Mark.png" alt="Slicer3D Logo" width="80" height="80">
 
 
 
