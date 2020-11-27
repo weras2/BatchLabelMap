@@ -97,7 +97,7 @@ Based on the image above there are just three clickable items.
              -> Volume Files
     ```
              
-     Here one would select the folder John Doe. In the case that patient set is selected:
+     Here one would select the folder John Doe. In the case that **Patient Set Checkbox** is selected:
      
      ```
      Patient Set -> John Doe    -> MRI Scan Folder 
