@@ -127,6 +127,7 @@ class automaticWidget(ScriptedLoadableModuleWidget):
 
    # What drives the entire process
   def onConvert(self):
+      print("Running...")
       main = coreFunction();
       if(self.toggleBtn1.isChecked()):
           main.setMode(self.e6.text);
@@ -246,7 +247,7 @@ class coreFunction():
         #DICOMUtils.deleteTemporaryDatabase(slicer.dicomDatabase, cleanup=True)
 
         # TODO Memory Management
-        someNode.UnRegister();
+        #someNode.UnRegister();
 
 
 
